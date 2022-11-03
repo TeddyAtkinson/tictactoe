@@ -20,7 +20,8 @@ function xoInput() {
 }
 
 function winCon() {
-  const $grid = $("#grid").children();
+  const grid = ("#grid").children();
+  
   if ()
 }
 
